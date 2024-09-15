@@ -53,3 +53,4 @@ You'll encounter inheritance in nearly every program you write.
 - [Inheritance and Composition: A Python OOP Guide - Real Python](https://realpython.com/inheritance-composition-python/)
 - [Decorators in Python - GeeksforGeeks](https://www.geeksforgeeks.org/decorators-in-python/)
 - [Supercharge Your Classes With Python super() - Real Python](https://realpython.com/python-super/)
+# python-p3-conclusion-to-object-inheritance
